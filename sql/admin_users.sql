@@ -1,0 +1,1 @@
+INSERT INTO `admin_users`(`id`, `username`, `password`, `name`, `avatar`, `remember_token`, `created_at`, `updated_at`) VALUES (1, 'admin', '$2y$10$O49yjHQ/.3cWMUm1lAWtRepxGeWzJ9jUTv6g1wrAYYMKeVRRsdnfO', 'Edison的后台', NULL, '8xomm96svQH8p2GbhC9MfD2WQU4VXDVMHLVH91b3s5h7JRgickSG9rnZwm8a', '2020-03-12 14:58:04', '2020-03-12 14:58:04');
